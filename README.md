@@ -10,5 +10,5 @@ I'm an AI/ML & full-stack developer, and final-year student at GRIET. Passionate
 
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/madityavardhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/madityavardhan/)
 [![Mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muvva.adityavardhan@gmail.com)
