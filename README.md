@@ -9,8 +9,6 @@ I'm an AI/ML & full-stack developer, and final-year student at GRIET. Passionate
 - 🧑‍🔬 Always curious to collaborate on AI projects, Full Stack projects and hackathons
 
 
-
-### 📊 GitHub Stats
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muvva-Adityavardhan&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muvva-Adityavardhan&layout=compact&theme=github_dark)
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/madityavardhan)
+[![Mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muvva.adityavardhan@gmail.com)
