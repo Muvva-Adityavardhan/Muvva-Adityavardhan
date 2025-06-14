@@ -11,6 +11,6 @@ I'm an AI/ML & full-stack developer, and final-year student at GRIET. Passionate
 
 
 ### 📊 GitHub Stats
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muvva-Adityavardhan&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muvva-Adityavardhan&layout=compact&theme=github_dark)
