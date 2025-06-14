@@ -8,3 +8,9 @@ I'm an AI/ML & full-stack developer, and final-year student at GRIET. Passionate
 - 🛰️ Ex-Intern: AI Research at ISRO (NRSC) -- Air Temperature Prediction
 - 🧑‍🔬 Always curious to collaborate on AI projects, Full Stack projects and hackathons
 
+
+
+### 📊 GitHub Stats
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark)
